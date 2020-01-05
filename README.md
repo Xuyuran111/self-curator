@@ -4,9 +4,10 @@
 ###### 我的姓名：许钰然
 ###### 我的学号：181013059
 ###### 我的班级：2018级网络与新媒体1班
+###### 我的GitHub URL：[https://github.com/Xuyuran111](https://github.com/Xuyuran111)
 ###### 我的python合作伙伴：李珊珊
 ###### 数据及表格地图提供者：彭海晴师姐
-###### 我的文档介绍：这是一个关于Python期末项目的文档介绍，下面将进行具体内容阐述
+###### 我的文档介绍：这是一个关于Python期末项目的文档介绍，下面将进行具体内容阐述;文档的查看建议在GitHub上进行，该文档在我的[GitHub](https://github.com/Xuyuran111)上的[self-curator](https://github.com/Xuyuran111/self-curator)仓库中。
 
 ## 项目代码
 - Github URL:[https://github.com/Xuyuran111/python-qmkstry](https://github.com/Xuyuran111/python-qmkstry)
