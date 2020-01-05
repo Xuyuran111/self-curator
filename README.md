@@ -25,6 +25,10 @@
 
 - 交互功能页面一的表格数据来源于“API_SP.DYN.TFRT.IN_DS2_en_csv_v2_612877.csv”这一个csv文件；功能一页面主要由template/jiaohu.html渲染而成，采用jiaohu.html与word_2.html中的图进行嵌套渲染
 
+- app.py作为主要的路由函数设置
+
+- web app动作使页面实现了下拉框的选择功能以及数据的传递功能
+
 ###### 对于整个flask框架的制作，由我和合作伙伴李珊珊共同合作完成，以下是我们对于该项目的具体阐述！
 
 ## HTML档描述
