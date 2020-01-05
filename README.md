@@ -17,14 +17,15 @@
 
 ## 项目总结介绍
 
-#### 本次的项目主题是受教育程度与总生育率、青春期生育率的关系；整个项目主要由[数据故事](http://xuyuran.pythonanywhere.com/jiaohu/)；[功能查询页一](http://xuyuran.pythonanywhere.com/jiaohu_1)；[功能查询页二](http://xuyuran.pythonanywhere.com/jiaohu_2)这三个页面组合而成。
-</br>
-#### 我主要负责的交互页面是功能查询页一：[别的国家生的多吗？](http://xuyuran.pythonanywhere.com/jiaohu_1)；
-该页面的主要功能是通过在下拉框中选择国家进行查看所选国家的历年生育率，再通过点击查询按钮，页面中便会出现相对应的柱状图及该国家的表格数据，由此实现交互功能。
-</br>
-#### 交互功能页面一的表格数据来源于“API_SP.DYN.TFRT.IN_DS2_en_csv_v2_612877.csv”这一个csv文件；功能一页面主要由template/jiaohu.html渲染而成，采用jiaohu.html与word_2.html中的图进行嵌套渲染
-</br>
-#### 对于整个flask框架的制作，由我和合作伙伴李珊珊共同合作完成，以下是我们对于该项目的具体阐述！
+- 本次的项目主题是受教育程度与总生育率、青春期生育率的关系；
+- 整个项目主要由[数据故事](http://xuyuran.pythonanywhere.com/jiaohu/)；[功能查询页一](http://xuyuran.pythonanywhere.com/jiaohu_1)；[功能查询页二](http://xuyuran.pythonanywhere.com/jiaohu_2)这三个页面组合而成。
+
+## 我主要负责的交互页面是功能查询页一：[别的国家生的多吗？](http://xuyuran.pythonanywhere.com/jiaohu_1)；
+- 该页面的主要功能是通过在下拉框中选择国家进行查看所选国家的历年生育率，再通过点击查询按钮，页面中便会出现相对应的柱状图及该国家的表格数据，由此实现交互功能。
+
+- 交互功能页面一的表格数据来源于“API_SP.DYN.TFRT.IN_DS2_en_csv_v2_612877.csv”这一个csv文件；功能一页面主要由template/jiaohu.html渲染而成，采用jiaohu.html与word_2.html中的图进行嵌套渲染
+
+###### 对于整个flask框架的制作，由我和合作伙伴李珊珊共同合作完成，以下是我们对于该项目的具体阐述！
 
 ## HTML档描述
 - 利用[Phantom](https://html5up.net/phantom) 的主题模板进行重构
